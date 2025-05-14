@@ -21,13 +21,12 @@ An interactive dashboard built with **Python**, **Dash**, and **Plotly** to visu
 ## 📁 Dataset
 
 Dataset used: `country_wise_latest.csv`  
-This dataset contains the latest available country-level COVID-19 statistics including:
+This dataset contains the available country-level COVID-19 statistics including:
 - Confirmed Cases
 - Deaths
 - Recovered
 - Active Cases
 
-You can find or update the dataset from sources like [Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
 
 ## 🚀 How to Run
 
